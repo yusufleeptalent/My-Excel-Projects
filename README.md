@@ -86,6 +86,11 @@ If you want, I can also help you:
 ✅ Format screenshots for GitHub  
 ✅ Turn this into a portfolio‑ready write‑up  
 
+### Pivot Table and Pivot Chars
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d803c380-a962-4141-90af-315458570529" />
 
-<img width="500" height="450" alt="Screenshot 2026-03-16 135522" src="https://github.com/user-attachments/assets/27858749-3bfe-4206-a998-a355cd998150" />
+
+### Visualization
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/3e15c5e9-88e5-4313-8ffe-5404eaaec0c0" />
+
 
