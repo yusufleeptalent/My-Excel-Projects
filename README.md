@@ -86,4 +86,6 @@ If you want, I can also help you:
 ✅ Format screenshots for GitHub  
 ✅ Turn this into a portfolio‑ready write‑up  
 
-Just let me know!
+
+<img width="500" height="450" alt="Screenshot 2026-03-16 135522" src="https://github.com/user-attachments/assets/27858749-3bfe-4206-a998-a355cd998150" />
+
