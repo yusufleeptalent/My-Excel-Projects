@@ -93,4 +93,6 @@ If you want, I can also help you:
 ### Visualization
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/3e15c5e9-88e5-4313-8ffe-5404eaaec0c0" />
 
+### Retail Sales Analysis
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ba814e12-5590-4205-a970-744da8f2708e" />
 
